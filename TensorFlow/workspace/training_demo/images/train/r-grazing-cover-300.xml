@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>r-grazing-cover-300.jpg</filename>
+    <path>Sheeps-PascalVOC-export/Annotations/r-grazing-cover-300.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>300</width>
+        <height>388</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>102</xmin>
+        <ymin>88</ymin>
+        <xmax>204</xmax>
+        <ymax>242</ymax>
+    </bndbox>
+</object><object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>58</xmin>
+        <ymin>150</ymin>
+        <xmax>121</xmax>
+        <ymax>245</ymax>
+    </bndbox>
+</object>
+</annotation>

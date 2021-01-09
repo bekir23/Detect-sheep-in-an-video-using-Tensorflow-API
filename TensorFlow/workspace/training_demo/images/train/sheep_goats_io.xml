@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>sheep_goats_io.png</filename>
+    <path>Sheeps-PascalVOC-export/Annotations/sheep_goats_io.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1020</width>
+        <height>442</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>688</xmin>
+        <ymin>108</ymin>
+        <xmax>922</xmax>
+        <ymax>349</ymax>
+    </bndbox>
+</object><object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>436</xmin>
+        <ymin>73</ymin>
+        <xmax>671</xmax>
+        <ymax>350</ymax>
+    </bndbox>
+</object><object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>9</xmin>
+        <ymin>223</ymin>
+        <xmax>75</xmax>
+        <ymax>256</ymax>
+    </bndbox>
+</object><object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>87</xmin>
+        <ymin>210</ymin>
+        <xmax>150</xmax>
+        <ymax>256</ymax>
+    </bndbox>
+</object><object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>352</xmin>
+        <ymin>136</ymin>
+        <xmax>466</xmax>
+        <ymax>335</ymax>
+    </bndbox>
+</object><object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>781</xmin>
+        <ymin>120</ymin>
+        <xmax>991</xmax>
+        <ymax>346</ymax>
+    </bndbox>
+</object>
+</annotation>
