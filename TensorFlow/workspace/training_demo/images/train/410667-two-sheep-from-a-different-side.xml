@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>410667-two-sheep-from-a-different-side.jpg</filename>
+    <path>Sheeps-PascalVOC-export/Annotations/410667-two-sheep-from-a-different-side.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1300</width>
+        <height>862</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>766</xmin>
+        <ymin>202</ymin>
+        <xmax>1145</xmax>
+        <ymax>842</ymax>
+    </bndbox>
+</object><object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>399</xmin>
+        <ymin>187</ymin>
+        <xmax>681</xmax>
+        <ymax>835</ymax>
+    </bndbox>
+</object>
+</annotation>
