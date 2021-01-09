@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>sheep-in-summer-meadow-elena-elisseeva.jpg</filename>
+    <path>Sheeps-PascalVOC-export/Annotations/sheep-in-summer-meadow-elena-elisseeva.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>900</width>
+        <height>727</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>130</xmin>
+        <ymin>145</ymin>
+        <xmax>756</xmax>
+        <ymax>646</ymax>
+    </bndbox>
+</object>
+</annotation>

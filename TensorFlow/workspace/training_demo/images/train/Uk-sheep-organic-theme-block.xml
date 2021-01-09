@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Uk-sheep-organic-theme-block.jpg</filename>
+    <path>Sheeps-PascalVOC-export/Annotations/Uk-sheep-organic-theme-block.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>528</width>
+        <height>351</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>26</xmin>
+        <ymin>34</ymin>
+        <xmax>287</xmax>
+        <ymax>334</ymax>
+    </bndbox>
+</object>
+</annotation>

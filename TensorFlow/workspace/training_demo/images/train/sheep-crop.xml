@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>sheep-crop.jpg</filename>
+    <path>Sheeps-PascalVOC-export/Annotations/sheep-crop.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>885</width>
+        <height>432</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>275</xmin>
+        <ymin>2</ymin>
+        <xmax>564</xmax>
+        <ymax>432</ymax>
+    </bndbox>
+</object>
+</annotation>
