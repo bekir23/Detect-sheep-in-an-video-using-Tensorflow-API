@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>a-herdwick-sheep-MCCDH0.jpg</filename>
+    <path>Sheeps-PascalVOC-export/Annotations/a-herdwick-sheep-MCCDH0.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1300</width>
+        <height>956</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>326</xmin>
+        <ymin>198</ymin>
+        <xmax>953</xmax>
+        <ymax>808</ymax>
+    </bndbox>
+</object>
+</annotation>

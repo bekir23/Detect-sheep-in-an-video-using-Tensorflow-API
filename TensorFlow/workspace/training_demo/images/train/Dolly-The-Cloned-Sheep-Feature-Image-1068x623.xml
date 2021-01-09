@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Dolly-The-Cloned-Sheep-Feature-Image-1068x623.jpg</filename>
+    <path>Sheeps-PascalVOC-export/Annotations/Dolly-The-Cloned-Sheep-Feature-Image-1068x623.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1068</width>
+        <height>623</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1</xmin>
+        <ymin>8</ymin>
+        <xmax>574</xmax>
+        <ymax>618</ymax>
+    </bndbox>
+</object><object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>500</xmin>
+        <ymin>3</ymin>
+        <xmax>1068</xmax>
+        <ymax>623</ymax>
+    </bndbox>
+</object>
+</annotation>

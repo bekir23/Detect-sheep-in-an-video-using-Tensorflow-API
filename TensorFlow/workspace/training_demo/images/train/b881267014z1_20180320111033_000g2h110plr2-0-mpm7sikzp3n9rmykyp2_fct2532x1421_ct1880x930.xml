@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>b881267014z1_20180320111033_000g2h110plr2-0-mpm7sikzp3n9rmykyp2_fct2532x1421_ct1880x930.jpg</filename>
+    <path>Sheeps-PascalVOC-export/Annotations/b881267014z1_20180320111033_000g2h110plr2-0-mpm7sikzp3n9rmykyp2_fct2532x1421_ct1880x930.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1880</width>
+        <height>929</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>91</xmin>
+        <ymin>27</ymin>
+        <xmax>993</xmax>
+        <ymax>929</ymax>
+    </bndbox>
+</object><object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1003</xmin>
+        <ymin>245</ymin>
+        <xmax>1156</xmax>
+        <ymax>597</ymax>
+    </bndbox>
+</object>
+</annotation>

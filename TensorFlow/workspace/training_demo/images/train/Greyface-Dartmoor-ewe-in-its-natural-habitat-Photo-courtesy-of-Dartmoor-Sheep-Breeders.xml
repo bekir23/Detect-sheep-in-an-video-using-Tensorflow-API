@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Greyface-Dartmoor-ewe-in-its-natural-habitat-Photo-courtesy-of-Dartmoor-Sheep-Breeders.png</filename>
+    <path>Sheeps-PascalVOC-export/Annotations/Greyface-Dartmoor-ewe-in-its-natural-habitat-Photo-courtesy-of-Dartmoor-Sheep-Breeders.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>456</width>
+        <height>342</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>72</xmin>
+        <ymin>53</ymin>
+        <xmax>400</xmax>
+        <ymax>303</ymax>
+    </bndbox>
+</object>
+</annotation>

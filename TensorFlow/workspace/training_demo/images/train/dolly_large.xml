@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>dolly_large.jpg</filename>
+    <path>Sheeps-PascalVOC-export/Annotations/dolly_large.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>574</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>36</xmin>
+        <ymin>83</ymin>
+        <xmax>669</xmax>
+        <ymax>542</ymax>
+    </bndbox>
+</object>
+</annotation>

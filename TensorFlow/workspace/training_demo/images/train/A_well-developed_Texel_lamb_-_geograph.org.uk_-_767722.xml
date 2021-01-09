@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>A_well-developed_Texel_lamb_-_geograph.org.uk_-_767722.jpg</filename>
+    <path>Sheeps-PascalVOC-export/Annotations/A_well-developed_Texel_lamb_-_geograph.org.uk_-_767722.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>480</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>79</xmin>
+        <ymin>99</ymin>
+        <xmax>424</xmax>
+        <ymax>574</ymax>
+    </bndbox>
+</object>
+</annotation>
