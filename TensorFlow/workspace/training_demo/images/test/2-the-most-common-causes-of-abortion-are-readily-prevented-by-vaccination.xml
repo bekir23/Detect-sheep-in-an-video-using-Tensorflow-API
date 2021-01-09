@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>2-the-most-common-causes-of-abortion-are-readily-prevented-by-vaccination.jpg</filename>
+    <path>Sheeps-PascalVOC-export/Annotations/2-the-most-common-causes-of-abortion-are-readily-prevented-by-vaccination.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>451</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>28</xmin>
+        <ymin>44</ymin>
+        <xmax>498</xmax>
+        <ymax>441</ymax>
+    </bndbox>
+</object>
+</annotation>
